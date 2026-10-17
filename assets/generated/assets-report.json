@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "alpha_mode": "binary",
+      "bytes": 123524,
+      "file": "tamaweb.atlas",
+      "frames": 39,
+      "height": 320,
+      "type": "atlas",
+      "variants": 0,
+      "width": 128
+    }
+  ],
+  "limit_bytes": 262144,
+  "schema": "mosaico-assets-report/v1",
+  "total_bytes": 123524
+}

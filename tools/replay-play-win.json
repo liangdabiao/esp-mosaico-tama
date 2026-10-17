@@ -1,0 +1,10 @@
+{"events": [
+  {"frame": 2, "type": "tap", "x": 240, "y": 328},
+  {"frame": 7250, "type": "tap", "x": 91, "y": 410},
+  {"frame": 7254, "type": "tap", "x": 125, "y": 148},
+  {"frame": 7274, "type": "tap", "x": 240, "y": 340},
+  {"frame": 7314, "type": "tap", "x": 90, "y": 240},
+  {"frame": 7354, "type": "tap", "x": 240, "y": 160},
+  {"frame": 7394, "type": "tap", "x": 240, "y": 340},
+  {"frame": 7434, "type": "tap", "x": 90, "y": 240}
+]}

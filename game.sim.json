@@ -1,0 +1,14 @@
+{
+  "schema": "mosaico-game-sim/v1",
+  "asset_prepare": ["assets_src/generate_sprites.py"],
+  "sources": [
+    "main/game_module.c",
+    "main/game.c",
+    "main/twp_model.c",
+    "main/twp_games.c",
+    "main/twp_data_tables.c",
+    "main/twp_cjk_font.c",
+    "main/twp_store_host.c",
+    "main/twp_sfx_host.c"
+  ]
+}

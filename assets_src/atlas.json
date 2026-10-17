@@ -1,0 +1,29 @@
+{
+  "image": "tamaweb_sprite_source.png",
+  "columns": 4,
+  "rows": 10,
+  "output_cell": 32,
+  "alpha_mode": "binary",
+  "animations": [],
+  "frames": [
+    {"name": "egg"}, {"name": "egg_crack"},
+    {"name": "baby_idle"}, {"name": "baby_eat"},
+    {"name": "baby_sleep"}, {"name": "baby_sick"},
+    {"name": "child_idle"}, {"name": "child_eat"},
+    {"name": "child_sleep"}, {"name": "child_sick"},
+    {"name": "adult_good_idle"}, {"name": "adult_good_sleep"},
+    {"name": "adult_bad_idle"}, {"name": "adult_bad_sleep"},
+    {"name": "elder_idle"}, {"name": "elder_dead"},
+    {"name": "poop"}, {"name": "icon_bread"},
+    {"name": "icon_pizza"}, {"name": "icon_burger"},
+    {"name": "icon_paster"}, {"name": "icon_sushi"},
+    {"name": "icon_king"}, {"name": "icon_soap"},
+    {"name": "icon_medicine"}, {"name": "icon_scoop"},
+    {"name": "icon_toy"}, {"name": "coin"},
+    {"name": "gm_dir"}, {"name": "gm_rod"}, {"name": "gm_groom"},
+    {"name": "veg_carrot"}, {"name": "veg_tomato"},
+    {"name": "veg_corn"}, {"name": "veg_leek"},
+    {"name": "heart"}, {"name": "skull"},
+    {"name": "star"}, {"name": "zzz"}
+  ]
+}

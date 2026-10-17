@@ -1,0 +1,8 @@
+{
+  "schema": "mosaico-game-assets/v1",
+  "limit_bytes": 262144,
+  "atlases": [
+    {"config": "atlas.json", "source": "tamaweb_sprite_source.png",
+     "output": "tamaweb.atlas"}
+  ]
+}
